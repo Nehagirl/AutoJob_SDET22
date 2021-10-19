@@ -17,7 +17,7 @@ public class orgtest
 	}
 
 	@Test
-	public void delete()
+	public void delete1()
 	{
 	System.out.println("delete org");
 	}
