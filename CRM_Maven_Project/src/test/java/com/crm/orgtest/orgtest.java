@@ -16,4 +16,10 @@ public class orgtest
 	System.out.println("edit org");
 	}
 
+	@Test
+	public void delete()
+	{
+	System.out.println("delete org");
+	}
+
 }
